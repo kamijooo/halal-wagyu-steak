@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Unused template assets (kept locally, not tracked)
+assets/burger.jpg
+assets/burger2.jpg
+assets/store.jpg
+assets/wagyu-cheese-sandwich.jpg
+assets/wagyu-platinum-sandwich.jpg
+assets/hero-center.mp4
+assets/hero-left.mp4
+assets/hero-left-new.mp4
+assets/hero-right.mp4
+assets/hero-right-new.mp4
+assets/hero-right-cheese.mp4
