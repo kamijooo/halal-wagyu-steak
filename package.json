@@ -1,0 +1,14 @@
+{
+  "name": "halal-wagyu-steak",
+  "version": "1.0.0",
+  "description": "Halal Wagyu Steak & Burger — multi-store LP. Domain: steak.halal-food-wagyu.com",
+  "private": true,
+  "scripts": {
+    "build": "eleventy",
+    "dev": "eleventy --serve --port=8080",
+    "clean": "rm -rf _site"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}
