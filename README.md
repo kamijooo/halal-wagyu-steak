@@ -57,4 +57,3 @@ https://steak.halal-food-wagyu.com/tokyo/ginzatsukiji/?utm_source=google-maps-hp
 https://steak.halal-food-wagyu.com/tokyo/ginzatsukiji/?utm_source=google-ads-website&utm_medium=cpc&utm_campaign=store
 ```
 
-
